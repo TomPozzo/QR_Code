@@ -1,0 +1,45 @@
+.blue-box {
+    position: relative;
+    width: 90%;
+    height: 600px;
+    background-color: #d6e0ed;
+    margin: 100px auto;
+    box-shadow: 0px 20px 15px -3px #d9dfe7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.white-box {
+    position: relative;
+    background-color: #ffffff;
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.qr {
+    position: relative;
+    width: 90%;
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+
+.text-bold {
+    font-family: 'Outfit';
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.text-normal {
+    font-family: 'Outfit';
+    font-weight: lighter;
+    font-size: 14px;
+    margin: 14px 10px; 
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
